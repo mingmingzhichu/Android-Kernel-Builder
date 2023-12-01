@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "repo": "https://github.com/crdroidandroid/android_kernel_oneplus_sm8150.git",
+      "branch": "14.0",
+      "device": "defconfig"
     },
     "withKernelSU": true,
     "toolchains": [

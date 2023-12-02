@@ -2,10 +2,10 @@
     "kernelSource": {
       "name": "miku-KernelSU",
       "repo": "https://github.com/crdroidandroid/android_kernel_oneplus_sm8150.git",
-      "branch": "14.0",
+      "branch": "13.0",
       "device": "defconfig"
     },
-    "withKernelSU": true,
+    "withKernelSU": flase,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",

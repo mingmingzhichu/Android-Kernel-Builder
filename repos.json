@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/crdroidandroid/android_kernel_oneplus_sm8150.git",
-      "branch": "13.0",
-      "device": "defconfig"
+      "repo": "https://github.com/DerpFest-Devices/kernel_oneplus_sm8150.git",
+      "branch": "13",
+      "device": "vendor/sm8150-perf_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
